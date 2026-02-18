@@ -1,11 +1,11 @@
 export default function sitemap() {
   return [
     {
-      url: "https://tenmiencuaban.com",
+      url: "https://boi-tinh-yeu.vercel.app",
       lastModified: new Date(),
     },
     {
-      url: "https://tenmiencuaban.com/boi-theo-ten",
+      url: "https://boi-tinh-yeu.vercel.app/boi-theo-ten",
       lastModified: new Date(),
     },
   ];
