@@ -3,6 +3,9 @@ import type { Metadata } from "next";
 import Header from "./components/Header";
 
 export const metadata: Metadata = {
+  verification: {
+    google: "bE1qzt57xXuk4GIKp70pyckHAyd89ZHiFIkC6LCPyMM",
+  },
   title: "Bói Tình Yêu Online Chính Xác 2026 ❤️",
   description:
     "Xem bói tình yêu theo tên và ngày sinh miễn phí, chính xác nhất 2026.",
